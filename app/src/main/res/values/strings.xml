@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Context-Aware</string>
+    <string name="textview_profile_header">Profiles &amp; themes</string>
+
+    <!--Values for Profile Creation Dialog-->
+    <string name="profile_creator_dialog_accept">CREATE</string>
+    <string name="profile_creator_dialog_decline">CANCEL</string>
+    <string name="profile_creator_dialog_title">Enter Profile Details</string>
+    <string name="profile_creator_dialog_message">i.e. Home, Office, etc.</string>
+    <string name="image_profile_description">Only used for aesthetics</string>
+    <string name="title_activity_profile_settings">ProfileSettingsActivity</string>
+
+    <!--Values for Settings Preference Screen-->
+    <string name="switch_for_bluetooth_settings">Enable Bluetooth</string>
+    <string name="sound_setting">Sound Settings</string>
+    <string name="preference_ringtone_selection">Default ringtone</string>
+    <string name="switch_pref_summary_on">Switch the toggle to OFF to disable the bluetooth.</string>
+    <string name="switch_pref_summary_off">Switch the toggle to ON to enable the bluetooth.</string>
+    <string name="ringtone_pref_summary">Choose a ringtone for profile</string>
+    <string name="notification_pref_summary">Choose a notification tone for profile</string>
+    <string name="preference_notification_selection">Default notification tone</string>
+
+</resources>

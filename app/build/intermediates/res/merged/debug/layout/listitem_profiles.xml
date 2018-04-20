@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@mipmap/ic_verified_user_black_48px"
+        android:id="@+id/image_listitem_profile"
+        android:contentDescription="@string/image_profile_description"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="4dp"/>
+
+    <!--Profile Name-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView_profiles"
+        android:textSize="16sp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:textColor="@color/colortextPrimary"
+        android:hint="@string/profile_creator_dialog_title"
+        android:layout_marginTop="8dp"
+        android:layout_toLeftOf="@+id/textView_status"
+        android:layout_toRightOf="@+id/image_listitem_profile"
+        android:layout_toEndOf="@+id/image_listitem_profile"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView_location"
+        android:hint="Latitude, Longitude"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:textSize="14sp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="8dp"
+        android:textColor="@color/colortextSecondary"
+        android:layout_below="@+id/textView_profiles"
+        android:layout_alignLeft="@+id/textView_profiles"
+        android:layout_alignStart="@+id/textView_profiles"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="STATUS"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:id="@+id/textView_status"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="8dp"/>
+</RelativeLayout>

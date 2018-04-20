@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/home/valentina/AndroidStudioProjects/context-aware-personalization/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_verified_user_black_48px.png",
+        "source": "/home/valentina/AndroidStudioProjects/context-aware-personalization/app/src/main/res/mipmap-mdpi/ic_verified_user_black_48px.png"
+    },
+    {
+        "merged": "/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_room_service_white_48dp.png",
+        "source": "/home/valentina/AndroidStudioProjects/context-aware-personalization/app/src/main/res/mipmap-mdpi/ic_room_service_white_48dp.png"
+    }
+]

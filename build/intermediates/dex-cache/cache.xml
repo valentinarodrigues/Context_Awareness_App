@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_e052e5f7cffd6505a7f50322b1469e433e1418bd/classes.dex" />
+    </item>
+    <item
+        jar="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_9b50c964394785897fa6c47fda8ff560e8be9b55/classes.dex" />
+    </item>
+    <item
+        jar="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_7ad646e315aff01db4873d07701d59cddfcc8556/classes.dex" />
+    </item>
+    <item
+        jar="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_039021d0e89da39a7aa35aa04b81d86e0f751ef3/classes.dex" />
+    </item>
+    <item
+        jar="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b5d42b47c26fc3d89426e947aecf6bbd84efba9f">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6ea86a07197220f4f7e102a96ad15d573fe6caec/classes.dex" />
+    </item>
+    <item
+        jar="/home/valentina/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_eccfca95efe8e2952c18a9c1840e58d47cb5a621/classes.dex" />
+    </item>
+    <item
+        jar="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_0e975dc0c5eb7e9852ee4bf7ac262da078fa7841/classes.dex" />
+    </item>
+    <item
+        jar="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_ac181ff48060ad689c251fc03558dac22503eae3/classes.dex" />
+    </item>
+    <item
+        jar="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_3211922ddab1d816fa045b9ebc0add4748b42fa0/classes.dex" />
+    </item>
+    <item
+        jar="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_2d41e66059e844c3ec17e9c3fd9e7c490170c24f/classes.dex" />
+    </item>
+    <item
+        jar="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_2cbb2c4e8d829e25032b604b36e634ac9cea808f/classes.dex" />
+    </item>
+    <item
+        jar="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_e4577baac2bf57583ffd9a48c1074117d21b94a1/classes.dex" />
+    </item>
+    <item
+        jar="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_de66a8df053f7286bbccb981bdac14fe25911aee/classes.dex" />
+    </item>
+    <item
+        jar="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d3c0698766a1d1e70992f4817cda4ef78d10793c">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8e04c4f159992e739da3524253499e619c8d970b/classes.dex" />
+    </item>
+    <item
+        jar="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/valentina/AndroidStudioProjects/context-aware-personalization/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_89ceb5d3b664899a0ea7016fb86117896c560993/classes.dex" />
+    </item>
+
+</items>
